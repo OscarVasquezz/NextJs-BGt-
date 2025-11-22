@@ -1,0 +1,15 @@
+import { defineConfig } from 'eslint/config'
+import nextVitals from 'eslint-config-next/core-web-vitals'
+
+const eslintConfig = defineConfig([
+  ...nextVitals,
+  {
+    settings: {
+      next: {
+        rootDir: './app/dashboard/', // Replace with the path to your app
+      },
+    },
+  },
+])
+
+export default eslintConfig
