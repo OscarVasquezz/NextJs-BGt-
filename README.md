@@ -17,7 +17,7 @@ Videdo: https://drive.google.com/drive/folders/119IbO0eChdf813TnDxdIcKlRh5Rkll66
 **Vista Principal:**
 NOTA: Se reutilizo el proyecto de NextJs, para realizar este proyecto.
 ![Iniciando la App](docum/Capturas/1.png)
-![interface](docum/Capturas/2.png)
+![interface](docum/Capturas/Capturas/2.png)
 
 *Al ingresar muestra el historial de las últimas 5 consultas y el botón para realizar una nueva consulta.*
 
