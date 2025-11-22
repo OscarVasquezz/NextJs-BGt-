@@ -16,12 +16,11 @@ Videdo: https://drive.google.com/drive/folders/119IbO0eChdf813TnDxdIcKlRh5Rkll66
 ## Capturas de Pantalla
 **Vista Principal:**
 NOTA: Se reutilizo el proyecto de NextJs, para realizar este proyecto.
-![Iniciando la App](docum/Capturas/1.png)
-![interface](docum/Capturas/Capturas/2.png)
+![Iniciando la App](docum/Capturas/01.png)
+![interface](docum/Capturas/Capturas/02.png)
 
 *Al ingresar muestra el historial de las últimas 5 consultas y el botón para realizar una nueva consulta.*
 
 **Resultado de la Consulta:**
 Muestra la tarjeta con el tipo de cambio del día y el historial actualizado con el nuevo registro.
-![consulta](docum/Capturas/3.png)
--------------------------------------------------------
+![03.png](docum/Capturas/)
